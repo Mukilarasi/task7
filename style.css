@@ -1,0 +1,15 @@
+.container{
+    height:200px;
+    width:500px;
+  background-image: linear-gradient(to right top, #051f37, #005275, #00898c, #00bf6d, #a8eb12);
+    background-blend-mode:darken;
+   text-align:center;
+     /* margin:120px; */
+    padding:90px;
+    color:white;
+  }
+  .main{
+    height:100px;
+    width:200px;
+    overflow:scroll;
+  }
